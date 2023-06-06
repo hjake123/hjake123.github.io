@@ -22,7 +22,7 @@ title: Jake Higdon Portfolio
 email: hjake123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Work in progress portfolio site for Jake Higdon.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  hjake123
