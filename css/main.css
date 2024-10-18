@@ -1503,6 +1503,10 @@ ul#nav li.current a:after {
 	vertical-align: bottom;
 }
 
+.popup-modal iframe {
+	vertical-align: bottom;
+}
+
 /* description */
 .popup-modal .description-box {
 	padding: 6px 36px 30px;
