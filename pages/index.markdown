@@ -5,12 +5,12 @@ title: "Home"
 permalink: /
 ---
 
-Hey! Let's try this out...
+This is just a first version! Not much to see here yet!
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>

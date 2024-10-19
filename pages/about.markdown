@@ -3,15 +3,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Digital art of a multicolor nebula](/pages/assets/nebulous.png)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Hi! I'm `hyperlynx`, also known as Jake. I've been coding in some shape or other most of my life by now, and I don't plan to stop anytime soon! I also do some creative writing, and I'm a big fan of a lot of scattered kinds of media.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm currently between work, so if you happen to need a programmer for really, truly anything and think I'd fit, tell me. Please.
 
+### Contact Me
+[Email](mailto:dev@hyperlynx.dev)
 
-[jekyll-organization]: https://github.com/jekyll
+Discord: `hyperlynx`
+
+[LinkedIn](https://www.linkedin.com/in/jacob-higdon-0x00/)

@@ -1,0 +1,30 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+    color:hsl(246, 100%, 68%)
+}
+
+a:visited{
+    color:#783eff
+}
+
+a:hover {
+    color:#9d53ff
+}
+
+#header nav ul li a {
+    background:linear-gradient(#8b20bd, #59109e);
+    border: 1px solid #71308f
+}
+
+#header nav ul li a:hover{
+    background:linear-gradient(#c768f3, #984cdf);
+    border: 1px solid #c768f3
+}
+
+.special{
+    color:#794dc0
+}
