@@ -23,7 +23,7 @@ email: dev@hyperlynx.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Work in progress portfolio site for "hyperlynx".
 baseurl: "/pages" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "hyperlynx.dev" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  hjake123
 
