@@ -52,7 +52,7 @@ body {
 a,
 a:visited {
 	outline: none;
-	color: white;
+	color: rgb(83, 0, 190);
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
@@ -62,7 +62,7 @@ a:visited {
 
 a:hover,
 a:focus {
-	color: #c08fff;
+	color: #0059ff;
 }
 
 /* Typography
@@ -374,7 +374,7 @@ img.pull-left {
 	height: 50px;
 	margin-left: -25px;
 	margin-top: -25px;
-	background-color: #c08fff;
+	background-color: #a661ff;
 	-webkit-animation: sk-rotateplane 1.2s infinite ease-in-out;
 	animation: sk-rotateplane 1.2s infinite ease-in-out;
 }
