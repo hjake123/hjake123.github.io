@@ -7,6 +7,8 @@ permalink: /
 
 This is just a first version! Not much to see here yet!
 
+[Check out my portfolio!](/portfolio)
+
 <ul>
   {% for post in site.posts %}
     <li>

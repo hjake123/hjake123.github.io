@@ -276,11 +276,11 @@ section #title .credits.right { float: right; }
 @media print, screen and (max-width: 480px) { #header { margin-top: -20px; }
   section { margin-top: 40px; }
   nav { display: none; } }
-a { color: #6c5cff; }
+a { color: #8a9fff; }
 
-a:visited { color: #783eff; }
+a:visited { color: #bc89ff; }
 
-a:hover { color: #9d53ff; }
+a:hover { color: #d2c1ff; }
 
 #header nav ul li a { background: linear-gradient(#8b20bd, #59109e); border: 1px solid #71308f; }
 
