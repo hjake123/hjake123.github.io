@@ -5,7 +5,7 @@ title: "Home"
 permalink: /
 ---
 
-Welcome! I'm `hyperlynx`, and this is is my homepage. It's mostly a link board right now, but I plan to start hosting some short stories here as well.
+Welcome! I'm **hyperlynx**, and this is is my homepage. It's mostly a link board right now, but I plan to start hosting some short stories and other projects here as well.
 
 ## Links
 
@@ -14,6 +14,8 @@ Welcome! I'm `hyperlynx`, and this is is my homepage. It's mostly a link board r
 [Reactive Mod Homepage](https://www.curseforge.com/minecraft/mc-mods/reactive)
 
 [Github](https://github.com/hjake123)
+
+[Tumblr](https://hyper-lynx.tumblr.com/)
 
 ## Blog Posts
 <ul>
