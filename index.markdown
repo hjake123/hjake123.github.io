@@ -5,10 +5,17 @@ title: "Home"
 permalink: /
 ---
 
-This is just a first version! Not much to see here yet!
+Welcome! I'm `hyperlynx`, and this is is my homepage. It's mostly a link board right now, but I plan to start hosting some short stories here as well.
 
-[Check out my portfolio!](/portfolio)
+## Links
 
+[About Me](/about.markdown)
+
+[Reactive Mod Homepage](https://www.curseforge.com/minecraft/mc-mods/reactive)
+
+[Github](https://github.com/hjake123)
+
+## Blog Posts
 <ul>
   {% for post in site.posts %}
     <li>
