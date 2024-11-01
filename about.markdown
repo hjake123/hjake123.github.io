@@ -13,5 +13,3 @@ I'm currently between work, so if you happen to need a programmer for really, tr
 [Email](mailto:dev@hyperlynx.dev)
 
 Discord: `hyperlynx`
-
-[LinkedIn](https://www.linkedin.com/in/jacob-higdon-0x00/)
