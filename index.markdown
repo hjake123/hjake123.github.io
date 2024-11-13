@@ -13,8 +13,6 @@ Welcome! I'm **hyperlynx**, and this is is my homepage. It's mostly a link board
 
 [Reactive Mod Homepage](https://www.curseforge.com/minecraft/mc-mods/reactive)
 
-[Reactive Mod Discord](https://discord.gg/zHe3wVBmbR)
-
 [Github](https://github.com/hjake123)
 
 [Tumblr](https://hyper-lynx.tumblr.com/)
