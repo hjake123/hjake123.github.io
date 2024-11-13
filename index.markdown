@@ -9,9 +9,9 @@ Welcome! I'm **hyperlynx**, and this is is my homepage. It's mostly a link board
 
 ## Links
 
-[About Me](/about.markdown)
-
 [Reactive Mod Homepage](https://www.curseforge.com/minecraft/mc-mods/reactive)
+
+[Reactive Mod Wiki](https://github.com/hjake123/reactive/wiki)
 
 [Github](https://github.com/hjake123)
 
