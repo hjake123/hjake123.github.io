@@ -1,0 +1,29 @@
+---
+title: Ko-fi, Numbers
+---
+
+## Ko-fi
+
+I decided to create a Kofi page yesterday after a bit of contemplation about my status as a mod author.
+
+On one hand, my mod was made entirely as a passion project and an escape from the rigors of school and the job hunt. Also, the visuals of the mod aren't anywhere near the level of most of the popular mods that I'm aware of. Most of the modders with Patreon followings are making much more ambitious and game-changing projects, so compared to that, it was easy to not think of my work as anything particularly special.
+
+That all being said, I eventually decided that it harms no one to have a donate button in a few places. I will never lock any mod content behind a paywall, and I will never integrate the donate button into the mod itself, so my conscience feels pretty clear. And it's not like I'm not already getting a small trickle of money from CurseForge for Reactive, and more from Tetra's Delight. 
+
+The other thing that brought me to do this is a continuing question about what I'm doing. I've been trying to make this "hyperlynx" label something meaningful, like an actual freelance studio of some kind, even if currently I don't have many projects. With the computer science job market in such a sad state, it feels like if I'm going to move forward with my career at all, I might have to do it myself. (For now, anyway). 
+
+As Reactive approaches 500,000 downloads, I'm reminded how amazing it is that anyone has taken interest in something I made at all. Whether this is my zenith, or a launching board for even bigger things... I'm very thankful. 
+
+## Numbers
+
+I've been toying with Reactive's version counting system for a little while now. Well -- not just toying, maybe fretting as well. As development of the project slows, I found that I'm not making major releases often enough to avoid my minor release number climbing pretty high. This would be fine if I'd been using a seperate patch number, or if the release was listed with numerals, but instead I'd been using a simplistic one-number-one-letter format that leaves no room for patch releases and has a conceptual limit of 26 revisions per major release.
+
+After a lot of concern about the reprecussions of changing the versioning scheme and confusing people, I finally decided to go for it. Version `9m.0` was released as `9.13.0` instead, since `m` is the 13th letter.
+
+This is a substantial improvement, especially if I want to use a maven someday, but I'm still a little uneasy with how high `9` is as a major release number. Most big software projects have a major release number of like `5` or `6`; Minecraft itself has `1`, and will forever.
+
+I've reassured myself by remembering that, in the end, it's my project. As long as I don't break sorting, I have full control. No one is going to think less of me for something as petty as this. Besides, now that I have a patch version I can use, bug fix and tiny adjustment releases are possible, which means I don't have to always pack in some gameplay-changing revision when I do a release.
+
+## End
+
+Anyway, enough of that. Thanks for humoring me. As always, if you want to ask me anything, you can [get in touch](/about.markdown) using my Discord. And, yeah, if you're feeling really generous, a small tip would mean a lot.
