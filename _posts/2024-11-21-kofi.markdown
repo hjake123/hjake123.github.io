@@ -26,4 +26,4 @@ I've reassured myself by remembering that, in the end, it's my project. As long 
 
 ## End
 
-Anyway, enough of that. Thanks for humoring me. As always, if you want to ask me anything, you can [get in touch](/about.markdown) using my Discord. And, yeah, if you're feeling really generous, a small tip would mean a lot.
+Anyway, enough of that. Thanks for humoring me. As always, if you want to ask me anything, you can [get in touch](/about). And, yeah, if you're feeling really generous, a small [tip](https://ko-fi.com/devhyperlynx) would mean a lot.
