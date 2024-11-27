@@ -15,7 +15,7 @@ Welcome! I'm **hyperlynx**, and this is is my homepage. It's mostly a link board
 
 [Github](https://github.com/hjake123)
 
-[Tumblr](https://hyper-lynx.tumblr.com/)
+[LinkedIn](https://www.linkedin.com/in/jacob-higdon-0x00/)
 
 ## Blog Posts
 <ul>
