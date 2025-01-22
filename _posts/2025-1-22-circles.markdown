@@ -1,0 +1,17 @@
+---
+title: Moving in Circles?
+---
+
+Hey, anyone. It's that time again. It's January, an era of new beginnings. Two Januarys ago, I was first out of College, ready to shiver in place and enter the world as promised. Now, I'm still at home.
+
+I got a job offer today. I won't talk about it here, but it looks... normal. Part time remote work that I don't really care about, but that will give me money. It won't help me advance my career, it won't get my foot into any programming-colored doors, but it's something.
+
+I don't know how to feel about that. On one hand, I finally could have some semblance of actual, regular work. On the other, I've been fretting so long about finding "the right kind of job" -- and this isn't one of the ones I'd have looked for. If I saw this opening on a job listing, I'd have scrolled past without thinking. But they reached out to me, and now, I'm hours deep, registering with their HR and awaiting an official document.
+
+I may still pull out, but I wonder if maybe I should just take it. Take the work you're given. Maybe I've strived long enough, or failed to do so, and this is the remaining avenue. Maybe I'm being absurd. Either way, this recruiter is enthusiastic, and my parents aren't here to give advice. I need to choose something. I've needed to choose something for years.
+
+Over a year ago, I was in a similar situation, but it was a much worse deal. The job was one of those "pay us to train you to be deployed anywhere in the US". That's too little autonomy for me, so I eventually declined, but damn it, I'd already be working at a tech job if I took that devil's deal. As it is, my hope -- to have work I care about, that I can sink my teeth into -- is receeding still out of view. 
+
+That being said, maybe it's OK. Maybe I can just take the simple job, take it part time, and pursue things I care about in my own time. It's what I was trying to do with data annotation, before I stopped that. Why did I stop that? Well, it stopped being consistent first, but now I can barely even clock an hour of it. Is it me, or the job? ...I guess taking this other job might be a way to find out.
+
+In any case, this shouldn't affect my hobby projects. If you're here about Reactive, I'll keep doing that for as long as I want to, and no less. 
